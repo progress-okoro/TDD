@@ -21,4 +21,7 @@ public class MathsTest {
         boolean isPrime = maths.numberIsPrime(7);
         Assert.assertTrue(isPrime);
     }
+
+
+
 }
